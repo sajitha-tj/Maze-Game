@@ -25,5 +25,5 @@ When you run the game, it will automatically solve the maze and show you the pat
 
 ## Screenshots
 
-![Maze 01](screenshots/Screenshot 01.png)
-![Maze 04](screenshots/Screenshot 02.png)
+![Maze 01](https://github.com/sajitha-tj/Maze-Game/blob/main/screenshots/Screenshot%2001.png))
+![Maze 04](https://github.com/sajitha-tj/Maze-Game/blob/main/screenshots/Screenshot%2002.png))
